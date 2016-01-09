@@ -1,3 +1,4 @@
-*
-!*.vhd
+.library_mapping.xml
+.project
+.settings
 !.gitignore

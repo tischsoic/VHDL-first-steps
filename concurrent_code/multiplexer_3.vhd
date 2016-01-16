@@ -25,5 +25,5 @@ begin
 		y <= 	a when 0,
 				b when 1,
 				c when 2,
-				d when others;
+				d when 3;
 end mux_3_2;

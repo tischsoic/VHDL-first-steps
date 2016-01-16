@@ -1,4 +1,4 @@
--- multiplexer, example 5.2(page 70) solution 2 from book "Circuit Design with VHDL" by Volnei A. Pedroni edition 2004
+-- multiplexer, example 5.2(page 70) from book "Circuit Design with VHDL" by Volnei A. Pedroni edition 2004
 
 library ieee;
 use ieee.std_logic_1164.all;
